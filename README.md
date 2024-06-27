@@ -29,4 +29,3 @@
     <a href="https://wa.me/5511958632273"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/leticialimacarmo/leticialimacarmo/blob/output/github-contribution-grid-snake.svg)
