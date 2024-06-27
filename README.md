@@ -1,6 +1,8 @@
 # Olá! Eu sou a Letícia Lima 👋
 
 - 🔭 Hoje trabalho com back e front end.
+- 👩🏻‍🎓 Formada em Técnico de Desenvolvimento de Sistemas.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Estudando Java.
 
 <div style="display: flex; align-items: center;">
