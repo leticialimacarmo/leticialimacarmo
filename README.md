@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com back e front end.
 - 👩🏻‍🎓 Formada em Técnico de Desenvolvimento de Sistemas.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Estudando Java.
+- 🌱 Estudando Java, python e c#.
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/leticialimacarmo">
