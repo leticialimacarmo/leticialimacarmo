@@ -14,7 +14,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;"><br>
   <img align="center" alt="Leticia-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leticia-Ts" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<!--   <img align="center" alt="Leticia-Ts" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg"> -->
   <img align="center" alt="Leticia-Node" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Leticia-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Leticia-PHP" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
